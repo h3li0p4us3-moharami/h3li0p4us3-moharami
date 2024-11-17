@@ -1,4 +1,8 @@
 
+## update!
+
+# My Main account: [@neox1de](https://github.com/neox1de)
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! This account is currently a **temporary workspace** for showcasing my projects and ongoing development work. My main GitHub account ([h3li0p4us3](https://github.com/h3li0p4us3)) is currently under review, and once it's restored, all content here will be transferred.
